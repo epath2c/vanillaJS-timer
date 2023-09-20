@@ -31,7 +31,7 @@ let tempYear = tempDate.getFullYear();
 let tempMonth = tempDate.getMonth();
 let tempDay = tempDate.getDate();
 
-const futureDate = new Date(2026, 10, 25, 08, 00, 0);
+const futureDate = new Date(2025, 10, 25, 08, 00, 0);
 const deadlineYear = futureDate.getFullYear();
 const deadlineMonth = futureDate.getMonth();
 const deadlineDay = futureDate.getDay();
